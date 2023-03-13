@@ -1,0 +1,29 @@
+.nametable,tr,td,th
+{
+    border:solid 1px #1c1b1b;
+    border-collapse: collapse;
+}
+.r1
+{
+    background-color: yellowgreen;
+}
+.r2
+{
+    background-color: aqua;
+}
+.r3
+{
+    background-color: blueviolet;
+}
+.r4
+{
+    background-color:yellow;
+}
+.r5
+{
+    background-color: blue;
+}
+.r6
+{
+    background-color: green;
+}
